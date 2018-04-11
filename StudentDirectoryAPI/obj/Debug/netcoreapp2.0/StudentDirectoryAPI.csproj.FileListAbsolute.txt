@@ -1,0 +1,11 @@
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\bin\Debug\netcoreapp2.0\StudentDirectoryAPI.deps.json
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\bin\Debug\netcoreapp2.0\StudentDirectoryAPI.runtimeconfig.json
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\bin\Debug\netcoreapp2.0\StudentDirectoryAPI.runtimeconfig.dev.json
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\bin\Debug\netcoreapp2.0\StudentDirectoryAPI.dll
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.csprojResolveAssemblyReference.cache
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.csproj.CoreCompileInputs.cache
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.AssemblyInfoInputs.cache
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.AssemblyInfo.cs
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\bin\Debug\netcoreapp2.0\StudentDirectoryAPI.pdb
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.dll
+C:\Users\warmcheese\Documents\enterprise_computing\StudentDirectoryAPI\StudentDirectoryAPI\obj\Debug\netcoreapp2.0\StudentDirectoryAPI.pdb
